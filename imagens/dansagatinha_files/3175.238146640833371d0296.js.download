@@ -1,0 +1,1 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[3175],{63175:(_,L,s)=>{s.d(L,{Y:()=>r});var e=s(33642),a=s(17133);const r=()=>{const{language:_}=(0,e.m7)((0,a.Lh)((()=>["language"]),[]));return{isRTL:"ar"===_||"ur"===_||"he-IL"===_}}}}]);

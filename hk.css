@@ -1,0 +1,52 @@
+#container {
+    height: 1400px;
+    width: 100%;
+    border: solid;
+    background-color: rgb(137, 191, 241);
+    margin: auto;
+}
+
+header {
+    background-color: rgb(247, 225, 250);
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1;
+    width: 100%;
+    height: 180px;
+    float: left;
+}
+
+nav {
+    background-color: rgb(247, 238, 248);
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1;
+    width: 100%;
+    height: 150px;
+    float: right;
+
+}
+#amazon {
+   padding: 2000px;
+
+}
+main {
+    background-color: rgb(195, 145, 241);
+    width: 50%;
+    height: 800px;
+    float: left;
+}
+
+aside {
+    background-color: rgb(172, 248, 185);
+    width: 50%;
+    height: 800px;
+    float: right;
+}
+
+footer {
+    background-color: rgb(247, 184, 184);
+    width: 100%;
+    height: 300px;
+    clear: both;
+}
